@@ -1,3 +1,4 @@
+
 // fonction pour ajouter un élément à l'écran
 function appendToDisplay(value) {
     document.getElementById('display').value += value //concaténation quand on appuie sur les touches
